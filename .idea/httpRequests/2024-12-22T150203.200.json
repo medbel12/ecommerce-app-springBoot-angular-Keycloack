@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e8cafc18-9d65-4d04-adc6-26267de31a98",
+    "name": "Laptop",
+    "price": 1000.0,
+    "quantity": 10.0
+  },
+  {
+    "id": "935d8c95-38ed-4da7-b241-dedce4e94285",
+    "name": "Smartphone",
+    "price": 500.0,
+    "quantity": 20.0
+  },
+  {
+    "id": "9990998f-d539-4967-9e1a-620fd776ab6a",
+    "name": "Tablet",
+    "price": 300.0,
+    "quantity": 15.0
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_email"
+    },
+    {
+      "authority": "default-roles-ecomm-realm"
+    },
+    {
+      "authority": "offline_access"
+    },
+    {
+      "authority": "uma_authorization"
+    },
+    {
+      "authority": "ADMIN"
+    },
+    {
+      "authority": "USER"
+    },
+    {
+      "authority": "SCOPE_profile"
+    }
+  ],
+  "details": {
+    "remoteAddress": "127.0.0.1",
+    "sessionId": null
+  },
+  "authenticated": true,
+  "principal": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJaY01McWgwVDNVUkZCaE9KN0hYSTN3eXRrNW9FR3A4NmRmR3hmaFlKeHdrIn0.eyJleHAiOjE3MzQ4NzcyOTMsImlhdCI6MTczNDg3Njk5MywianRpIjoiNzAzYjgwNjMtMWEzYy00NDY1LThiNDMtOWYxOThkZjcxZjQ2IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lY29tbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJjMmQ1NWIxNC05ZWRlLTQ2MTctYmIxZC01MTQ0OGJhYzE3MzciLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tbS1jbGllbnQtYW5ndWxhciIsInNpZCI6IjMxYzQxZmVlLTYyMTUtNDAyNy1hNDIwLTYxZDg5OWFlZTljMiIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo0MjAwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLWVjb21tLXJlYWxtIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiIsIkFETUlOIiwiVVNFUiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImlicmFoaW0gemFpbSIsInByZWZlcnJlZF91c2VybmFtZSI6InVzZXIyIiwiZ2l2ZW5fbmFtZSI6ImlicmFoaW0iLCJmYW1pbHlfbmFtZSI6InphaW0iLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.lQufu7zsm20kanzFv2acxYl2ZCeSRmYe-VYXiIIe2RmCF_jhZJSLmy6FD-f_WEMlOckq8a-4KVGqxdRZhhahs2zWXFuh5_d1VHHlS2bg6RB8e8hykeqZaGCBOuKAYEYLsb3bEbuRUWSgl3VGbsUjPJHc8yAfexSX0hIyvzj1S3jOxrg_dCvPXFTJNSUojdlGPOnWX4slqhXMW6nGAJj8R7x-KpANrMmiR-Ans7ZAXhHrjpnQh32wt800U_o_cf3uhIUyVBZ0KJdjsRtCjBc-v2dqsgGx-PIXmfEclEraSUTXkHDfo8rbp4UW-MeXD-u08hdA3wIPVf29xDqHuiK7IA",
+    "issuedAt": "2024-12-22T14:16:33Z",
+    "expiresAt": "2024-12-22T14:21:33Z",
+    "headers": {
+      "kid": "ZcMLqh0T3URFBhOJ7HXI3wytk5oEGp86dfGxfhYJxwk",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/ecomm-realm",
+      "typ": "Bearer",
+      "preferred_username": "user2",
+      "given_name": "ibrahim",
+      "sid": "31c41fee-6215-4027-a420-61d899aee9c2",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "default-roles-ecomm-realm",
+          "offline_access",
+          "uma_authorization",
+          "ADMIN",
+          "USER"
+        ]
+      },
+      "azp": "ecomm-client-angular",
+      "scope": "email profile",
+      "name": "ibrahim zaim",
+      "exp": "2024-12-22T14:21:33Z",
+      "iat": "2024-12-22T14:16:33Z",
+      "family_name": "zaim",
+      "jti": "703b8063-1a3c-4465-8b43-9f198df71f46",
+      "email": "user2@gmail.com"
+    },
+    "id": "703b8063-1a3c-4465-8b43-9f198df71f46",
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/ecomm-realm",
+    "subject": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+    "audience": [
+      "account"
+    ]
+  },
+  "credentials": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJaY01McWgwVDNVUkZCaE9KN0hYSTN3eXRrNW9FR3A4NmRmR3hmaFlKeHdrIn0.eyJleHAiOjE3MzQ4NzcyOTMsImlhdCI6MTczNDg3Njk5MywianRpIjoiNzAzYjgwNjMtMWEzYy00NDY1LThiNDMtOWYxOThkZjcxZjQ2IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lY29tbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJjMmQ1NWIxNC05ZWRlLTQ2MTctYmIxZC01MTQ0OGJhYzE3MzciLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tbS1jbGllbnQtYW5ndWxhciIsInNpZCI6IjMxYzQxZmVlLTYyMTUtNDAyNy1hNDIwLTYxZDg5OWFlZTljMiIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo0MjAwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLWVjb21tLXJlYWxtIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiIsIkFETUlOIiwiVVNFUiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImlicmFoaW0gemFpbSIsInByZWZlcnJlZF91c2VybmFtZSI6InVzZXIyIiwiZ2l2ZW5fbmFtZSI6ImlicmFoaW0iLCJmYW1pbHlfbmFtZSI6InphaW0iLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.lQufu7zsm20kanzFv2acxYl2ZCeSRmYe-VYXiIIe2RmCF_jhZJSLmy6FD-f_WEMlOckq8a-4KVGqxdRZhhahs2zWXFuh5_d1VHHlS2bg6RB8e8hykeqZaGCBOuKAYEYLsb3bEbuRUWSgl3VGbsUjPJHc8yAfexSX0hIyvzj1S3jOxrg_dCvPXFTJNSUojdlGPOnWX4slqhXMW6nGAJj8R7x-KpANrMmiR-Ans7ZAXhHrjpnQh32wt800U_o_cf3uhIUyVBZ0KJdjsRtCjBc-v2dqsgGx-PIXmfEclEraSUTXkHDfo8rbp4UW-MeXD-u08hdA3wIPVf29xDqHuiK7IA",
+    "issuedAt": "2024-12-22T14:16:33Z",
+    "expiresAt": "2024-12-22T14:21:33Z",
+    "headers": {
+      "kid": "ZcMLqh0T3URFBhOJ7HXI3wytk5oEGp86dfGxfhYJxwk",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/ecomm-realm",
+      "typ": "Bearer",
+      "preferred_username": "user2",
+      "given_name": "ibrahim",
+      "sid": "31c41fee-6215-4027-a420-61d899aee9c2",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "default-roles-ecomm-realm",
+          "offline_access",
+          "uma_authorization",
+          "ADMIN",
+          "USER"
+        ]
+      },
+      "azp": "ecomm-client-angular",
+      "scope": "email profile",
+      "name": "ibrahim zaim",
+      "exp": "2024-12-22T14:21:33Z",
+      "iat": "2024-12-22T14:16:33Z",
+      "family_name": "zaim",
+      "jti": "703b8063-1a3c-4465-8b43-9f198df71f46",
+      "email": "user2@gmail.com"
+    },
+    "id": "703b8063-1a3c-4465-8b43-9f198df71f46",
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/ecomm-realm",
+    "subject": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+    "audience": [
+      "account"
+    ]
+  },
+  "token": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJaY01McWgwVDNVUkZCaE9KN0hYSTN3eXRrNW9FR3A4NmRmR3hmaFlKeHdrIn0.eyJleHAiOjE3MzQ4NzcyOTMsImlhdCI6MTczNDg3Njk5MywianRpIjoiNzAzYjgwNjMtMWEzYy00NDY1LThiNDMtOWYxOThkZjcxZjQ2IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lY29tbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJjMmQ1NWIxNC05ZWRlLTQ2MTctYmIxZC01MTQ0OGJhYzE3MzciLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tbS1jbGllbnQtYW5ndWxhciIsInNpZCI6IjMxYzQxZmVlLTYyMTUtNDAyNy1hNDIwLTYxZDg5OWFlZTljMiIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo0MjAwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLWVjb21tLXJlYWxtIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiIsIkFETUlOIiwiVVNFUiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImlicmFoaW0gemFpbSIsInByZWZlcnJlZF91c2VybmFtZSI6InVzZXIyIiwiZ2l2ZW5fbmFtZSI6ImlicmFoaW0iLCJmYW1pbHlfbmFtZSI6InphaW0iLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.lQufu7zsm20kanzFv2acxYl2ZCeSRmYe-VYXiIIe2RmCF_jhZJSLmy6FD-f_WEMlOckq8a-4KVGqxdRZhhahs2zWXFuh5_d1VHHlS2bg6RB8e8hykeqZaGCBOuKAYEYLsb3bEbuRUWSgl3VGbsUjPJHc8yAfexSX0hIyvzj1S3jOxrg_dCvPXFTJNSUojdlGPOnWX4slqhXMW6nGAJj8R7x-KpANrMmiR-Ans7ZAXhHrjpnQh32wt800U_o_cf3uhIUyVBZ0KJdjsRtCjBc-v2dqsgGx-PIXmfEclEraSUTXkHDfo8rbp4UW-MeXD-u08hdA3wIPVf29xDqHuiK7IA",
+    "issuedAt": "2024-12-22T14:16:33Z",
+    "expiresAt": "2024-12-22T14:21:33Z",
+    "headers": {
+      "kid": "ZcMLqh0T3URFBhOJ7HXI3wytk5oEGp86dfGxfhYJxwk",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/ecomm-realm",
+      "typ": "Bearer",
+      "preferred_username": "user2",
+      "given_name": "ibrahim",
+      "sid": "31c41fee-6215-4027-a420-61d899aee9c2",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "default-roles-ecomm-realm",
+          "offline_access",
+          "uma_authorization",
+          "ADMIN",
+          "USER"
+        ]
+      },
+      "azp": "ecomm-client-angular",
+      "scope": "email profile",
+      "name": "ibrahim zaim",
+      "exp": "2024-12-22T14:21:33Z",
+      "iat": "2024-12-22T14:16:33Z",
+      "family_name": "zaim",
+      "jti": "703b8063-1a3c-4465-8b43-9f198df71f46",
+      "email": "user2@gmail.com"
+    },
+    "id": "703b8063-1a3c-4465-8b43-9f198df71f46",
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/ecomm-realm",
+    "subject": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+    "audience": [
+      "account"
+    ]
+  },
+  "name": "user2",
+  "tokenAttributes": {
+    "sub": "c2d55b14-9ede-4617-bb1d-51448bac1737",
+    "resource_access": {
+      "account": {
+        "roles": [
+          "manage-account",
+          "manage-account-links",
+          "view-profile"
+        ]
+      }
+    },
+    "email_verified": false,
+    "allowed-origins": [
+      "http://localhost:4200"
+    ],
+    "iss": "http://localhost:8080/realms/ecomm-realm",
+    "typ": "Bearer",
+    "preferred_username": "user2",
+    "given_name": "ibrahim",
+    "sid": "31c41fee-6215-4027-a420-61d899aee9c2",
+    "aud": [
+      "account"
+    ],
+    "acr": "1",
+    "realm_access": {
+      "roles": [
+        "default-roles-ecomm-realm",
+        "offline_access",
+        "uma_authorization",
+        "ADMIN",
+        "USER"
+      ]
+    },
+    "azp": "ecomm-client-angular",
+    "scope": "email profile",
+    "name": "ibrahim zaim",
+    "exp": "2024-12-22T14:21:33Z",
+    "iat": "2024-12-22T14:16:33Z",
+    "family_name": "zaim",
+    "jti": "703b8063-1a3c-4465-8b43-9f198df71f46",
+    "email": "user2@gmail.com"
+  }
+}

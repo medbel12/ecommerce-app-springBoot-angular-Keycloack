@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91b567fd-9a6d-4a5b-86a2-bb3a777124c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/assets/silent-check-sso.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front-end-angular/ecommerce-app-frontend" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2q8G3vngBxB8t7Xof34Ei9WmTbo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.rest-api_6 | #1.executor": "Run",
+    "HTTP Request.rest-api_6 | #2.executor": "Run",
+    "HTTP Request.rest-api_6 | #3.executor": "Run",
+    "Maven.invetory-service [clean,install].executor": "Run",
+    "Maven.invetory-service [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.InvantoryServiceApplication.executor": "Run",
+    "Spring Boot.InvetoryServiceApplication.executor": "Run",
+    "Spring Boot.OrderServiceApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/a/IdeaProjects/Ecommerce-application-enset/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/a/IdeaProjects/Ecommerce-application-Enset/src/main/java/ma/enset/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "ts.external.directory.path": "C:\\Users\\a\\IdeaProjects\\Ecommerce-application-enset\\front-end-angular\\ecommerce-app-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a\IdeaProjects\Ecommerce-application-enset\images" />
+      <recent name="C:\Users\a\IdeaProjects\Ecommerce-application-enset\order-service\src\main\java\ma\enset\orderservice\security" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ma.enset.orderservice.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InvetoryServiceApplication">
+    <configuration name="rest-api_6 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_6 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_6 | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="InvantoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="invantory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.invantoryservice.InvantoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvetoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="invetory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.invetoryservice.InvetoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.orderservice.OrderServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderServiceApplication" />
+        <item itemvalue="HTTP Request.rest-api_6 | #2" />
+        <item itemvalue="HTTP Request.rest-api_6 | #1" />
+        <item itemvalue="HTTP Request.rest-api_6 | #3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b567fd-9a6d-4a5b-86a2-bb3a777124c2" name="Changes" comment="" />
+      <created>1734036595566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734036595566</updated>
+      <workItem from="1734036596950" duration="4770000" />
+      <workItem from="1734109316881" duration="700000" />
+      <workItem from="1734121143466" duration="2342000" />
+      <workItem from="1734131865249" duration="2742000" />
+      <workItem from="1734134706063" duration="1319000" />
+      <workItem from="1734269352815" duration="69000" />
+      <workItem from="1734357482569" duration="700000" />
+      <workItem from="1734706139412" duration="12954000" />
+      <workItem from="1734872865387" duration="11199000" />
+      <workItem from="1734885317017" duration="20924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

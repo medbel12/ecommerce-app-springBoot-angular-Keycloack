@@ -1,0 +1,43 @@
+{
+  "id": "b759cffd-0d2c-4adc-bd4a-9be9081c0e2e",
+  "date": "2024-12-23",
+  "state": "CONFIRMED",
+  "productItems": [
+    {
+      "id": 13,
+      "productId": "P1",
+      "price": 10740.0,
+      "quantity": 2,
+      "product": {
+        "id": "P1",
+        "name": "Laptop",
+        "price": 1000.0,
+        "quantity": 10.0
+      }
+    },
+    {
+      "id": 14,
+      "productId": "P2",
+      "price": 8086.0,
+      "quantity": 74,
+      "product": {
+        "id": "P2",
+        "name": "Smartphone",
+        "price": 500.0,
+        "quantity": 20.0
+      }
+    },
+    {
+      "id": 15,
+      "productId": "P3",
+      "price": 4454.0,
+      "quantity": 9,
+      "product": {
+        "id": "P3",
+        "name": "Tablet",
+        "price": 300.0,
+        "quantity": 15.0
+      }
+    }
+  ]
+}
