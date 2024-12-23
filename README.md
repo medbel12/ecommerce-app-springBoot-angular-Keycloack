@@ -10,8 +10,15 @@ A full-stack application built with **Spring Boot**, **Angular**, and **Keycloak
 
 ## Screenshots
 
-### Home Page
+### Kycloak interface
+![Keycloak](images/keycloak.png "keycloak")
+
+### Products List
 ![products](images/products.png "products list")
 
-### Dashboard
-![Dashboard](assets/images/dashboard.png "Dashboard Screenshot")
+### orders List
+![orders](images/orders.png "orders")
+
+### order Details
+![orders Details](images/order-details.png "order-details")
+
